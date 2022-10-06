@@ -1,1 +1,1 @@
-/* Add Rithwik P and Week 1 Application Assignment */
+ Add Rithwik P and Week 1 Application Assignment
